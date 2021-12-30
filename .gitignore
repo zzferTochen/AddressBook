@@ -1,2 +1,9 @@
 # Project exclude paths
 /cmake-build-debug/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.log
